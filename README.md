@@ -1,2 +1,1 @@
-# Account-Api
-Client Account Self Registration
+1. Add GEOCODE_API_KEY in .env file
